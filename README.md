@@ -1,10 +1,10 @@
 # CROMA LUX
 
 Um tema simples e estiloso que vai deixar seu Discord encatandaor.
-![capa](https://github.com/CroiDev/CROMA/blob/main/ativos/CROMA.gif) 
+![capa](https://github.com/CroiDev/CROMA-LUX/blob/main/ativos/CROMA-LUX.gif) 
 
 ![DISCORD](https://img.shields.io/discord/578964738617376769.svg?color=5865F2&label=DISCORD&labelColor=101010&logo=discord&logoColor=5865F2&style=flat-square)
-![LICENÇA](https://img.shields.io/github/license/CroiDev/CROMA?color=C2C2C2&label=LICENÇA&labelColor=101010&style=flat-square)
+![LICENÇA](https://img.shields.io/github/license/CroiDev/CROMA-LUX?color=C2C2C2&label=LICENÇA&labelColor=101010&style=flat-square)
 ![VERSÃO](https://img.shields.io/github/v/release/CroiDev/TEMACRO?color=57F287&labelColor=101010&label=VERS%C3%83O&logo=css3&logoColor=57F287&style=flat-square)
 ![FEITO COM](https://img.shields.io/badge/FEITO%20COM-MAGICA%20✨-orange?labelColor=101010&style=flat-square)
 
@@ -24,8 +24,8 @@ git clone https://github.com/CroiDev/CROMA-LUX
 
 <!-- - [Direct Download](https://betterdiscord.net/ghdl?id=3625) -->
 
-- 📥 [Baixar direto](https://github.com/CroiDev/CROMA/releases/download/1.0.0/CROMA.theme.css) <!-- link temporario -->
-- 📃 [Ver a fonte](https://CroiDev.github.io/CROMA/cdf/tema/compilado.css)
+- 📥 [Baixar direto](https://github.com/CroiDev/CROMA-LUX/releases/download/1.0.0/CROMA-LUX.theme.css) <!-- link temporario -->
+- 📃 [Ver a fonte](https://CroiDev.github.io/CROMA-LUX/cdf/tema/compilado.css)
 
 **[Stylus](https://github.com/openstyles/stylus)**
 
@@ -33,7 +33,7 @@ git clone https://github.com/CroiDev/CROMA-LUX
    - **[Chrome Webstore](https://chrome.google.com/webstore/detail/stylus/clngdbkpkpeebahjckkjfobafhncgmne)**
    - **[Opera Addons](https://addons.opera.com/pt-br/extensions/details/stylus/)**
    - **[Firefox Addons](https://addons.mozilla.org/pt-BR/firefox/addon/styl-us/)**
-2. Após a instalação, acesse **[esse link](https://CroiDev.github.io/CROMA/cdf/tema/CROMA.user.css)**.
+2. Após a instalação, acesse **[esse link](https://CroiDev.github.io/CROMA-LUX/cdf/tema/CROMA-LUX.user.css)**.
 3. Pressione o botão "Instalar estilo".
 
 ## Creditos
